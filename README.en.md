@@ -10,7 +10,7 @@ Hondi is the mascot of **Omeong Gameong**, a travel app for exploring Jeju Islan
 
 Now you can keep a little Hondi on your screen, too. Leave Hondi alone for a moment and those eyes get sleepy. Move Hondi across the screen and the little tangerine walk begins. This repository has everything you need to install Hondi as a custom Codex pet.
 
-**[🐾 Visit Hondi at Omeong Gameong →](https://omeong-gameong-web.vercel.app/login)**
+**[🐾 Visit Hondi at Omeong Gameong →](https://omeong-gameong-web.vercel.app)**
 
 ## 🐾 A little Jeju daydream
 
@@ -18,7 +18,7 @@ Sea breezes, unfamiliar paths, and your favorite four-legged travel companion. I
 
 Enjoy having Hondi around? Take a peek at the place this little mascot calls home. 🍊
 
-**[Explore Omeong Gameong on the web →](https://omeong-gameong-web.vercel.app/login)**
+**[Explore Omeong Gameong on the web →](https://omeong-gameong-web.vercel.app)**
 
 ## 🍊 A day with Hondi
 

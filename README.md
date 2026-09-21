@@ -10,7 +10,7 @@
 
 오멍가멍에서 만나는 혼디를 화면 한쪽에서도 만나 보세요. 가만히 앉아 졸기도 하고, 자리를 옮겨 주면 귤을 문 채 총총 걸어요. 이 저장소에는 혼디를 Codex 펫으로 데려올 수 있는 파일과 설치 방법을 담았어요.
 
-**[🐾 혼디가 있는 오멍가멍 놀러 가기 →](https://omeong-gameong-web.vercel.app/login)**
+**[🐾 혼디가 있는 오멍가멍 놀러 가기 →](https://omeong-gameong-web.vercel.app)**
 
 ## 🐾 다음 여행은, 오멍가멍
 
@@ -18,7 +18,7 @@
 
 반려동물과 함께하는 제주 여행을 위한 앱, 오멍가멍. 혼디가 마음에 들었다면 혼디의 원래 집도 살짝 들러 주세요. 🍊
 
-**[오멍가멍 웹에서 만나기 →](https://omeong-gameong-web.vercel.app/login)**
+**[오멍가멍 웹에서 만나기 →](https://omeong-gameong-web.vercel.app)**
 
 ## 🍊 혼디의 작은 하루
 
@@ -139,7 +139,7 @@ Windows: `./install.ps1 -SourceDir .`
 
 ## 혼디를 만든 곳
 
-- **캐릭터 · 서비스:** 혼디 · [오멍가멍](https://omeong-gameong-web.vercel.app/login)
+- **캐릭터 · 서비스:** 혼디 · [오멍가멍](https://omeong-gameong-web.vercel.app)
 - **제작:** AI를 활용한 이미지 생성 및 수동 품질 검수
 
 이 펫은 오멍가멍의 마스코트를 활용한 커스텀 펫이며, OpenAI의 공식 캐릭터나 공식 배포물이 아닙니다.

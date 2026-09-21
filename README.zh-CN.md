@@ -10,7 +10,7 @@ Hondi 是 **Omeong Gameong（오멍가멍）** 的吉祥物。这是一款面向
 
 现在，也可以让 Hondi 待在你的屏幕一角啦。安静时坐着打盹，挪动位置时就叼着橘子迈开小步。这份仓库提供了将 Hondi 安装为 Codex 自定义宠物所需的文件和说明。
 
-**[🐾 去 Omeong Gameong 找 Hondi 玩 →](https://omeong-gameong-web.vercel.app/login)**
+**[🐾 去 Omeong Gameong 找 Hondi 玩 →](https://omeong-gameong-web.vercel.app)**
 
 ## 🐾 下一站，和毛孩子一起去济州
 
@@ -18,7 +18,7 @@ Hondi 是 **Omeong Gameong（오멍가멍）** 的吉祥物。这是一款面向
 
 喜欢这只叼橘子的小狗？也来逛逛它原本的家吧。🍊
 
-**[打开 Omeong Gameong 网页版 →](https://omeong-gameong-web.vercel.app/login)**
+**[打开 Omeong Gameong 网页版 →](https://omeong-gameong-web.vercel.app)**
 
 ## 🍊 Hondi 的小日常
 
