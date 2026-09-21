@@ -52,7 +52,7 @@ curl -fsSL https://raw.githubusercontent.com/qkrwlgus89/hondi-codex-pet/main/ins
 & ([scriptblock]::Create((Invoke-WebRequest -UseBasicParsing https://raw.githubusercontent.com/qkrwlgus89/hondi-codex-pet/main/install.ps1).Content))
 ```
 
-설치가 끝나면 **설정 → Pets(펫) → 새로고침 → 혼디 (Hondi)**를 선택해 주세요. 목록에 아직 안 보인다면 앱을 완전히 종료했다가 다시 열어 주세요.
+설치가 끝나면 **설정 → Pets(펫) → 새로고침 → 혼디 (Hondi)** 를 선택해 주세요. 목록에 아직 안 보인다면 앱을 완전히 종료했다가 다시 열어 주세요.
 
 <details>
 <summary>설치 경로 · 재설치 · 삭제 안내</summary>
