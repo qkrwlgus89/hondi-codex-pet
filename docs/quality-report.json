@@ -1,0 +1,76 @@
+{
+  "ok": true,
+  "atlas": "/workspace/scratch/8cdb68601872/hondi-pet-run/final/spritesheet-extended.png",
+  "encoded_bytes": 3493953,
+  "sha256": "8b2de2ac6ef0e65a03557fb95b2c25ba4c2b8b04747e55f8827241367cf62ace",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      201,
+      197,
+      168,
+      201,
+      202
+    ],
+    "airborne_lift_pixels": 34,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 96.0,
+    "look_centers_x": [
+      100.0,
+      99.5,
+      99.5,
+      99.0,
+      99.0,
+      99.0,
+      99.5,
+      99.5,
+      100.0,
+      96.5,
+      95.0,
+      94.5,
+      96.0,
+      99.0,
+      99.5,
+      100.0
+    ],
+    "look_widths": [
+      128,
+      127,
+      127,
+      126,
+      126,
+      124,
+      125,
+      125,
+      120,
+      127,
+      128,
+      131,
+      128,
+      120,
+      119,
+      118
+    ],
+    "maximum_center_drift_pixels": 4.0,
+    "maximum_width_ratio": 1.1101694915254237
+  },
+  "errors": [],
+  "warnings": [
+    "000 has transparent interior hole rows (y=13, y=14, y=15, y=16, +9 more)",
+    "022.5 has transparent interior hole rows (y=13, y=14, y=15, y=16, +8 more)",
+    "045 has transparent interior hole rows (y=14, y=15, y=16, y=17)",
+    "067.5 has transparent interior hole rows (y=16, y=17, y=18, y=19, +2 more)",
+    "090 has transparent interior hole rows (y=13, y=14, y=15, y=16, +1 more)",
+    "112.5 has transparent interior hole rows (y=19)",
+    "135 has transparent interior hole rows (y=21)",
+    "180 has transparent interior hole rows (y=43, y=44, y=45, y=46, +2 more)",
+    "337.5 has transparent interior hole rows (y=43)",
+    "157.5->180 diff is a local outlier (3851 pixels vs neighbor average 1678)",
+    "157.5->180 center shift is high (10.5px)",
+    "337.5->000 diff is a local outlier (5499 pixels vs neighbor average 1471)",
+    "337.5->000 center shift is high (9.0px)",
+    "337.5->000 sprite area ratio is high (1.36)"
+  ]
+}

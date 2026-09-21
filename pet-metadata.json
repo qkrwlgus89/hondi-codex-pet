@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "pet": {
+    "id": "hondi",
+    "version": "1.0.0",
+    "name": {
+      "ko": "혼디",
+      "en": "Hondi",
+      "ja": "ホンディ",
+      "zh-CN": "Hondi"
+    },
+    "description": {
+      "ko": "입 주변이 살짝 짙은 황갈색 제주개. 드래그하면 귤을 물고 걷고, 가만히 있으면 앉아서 꾸벅꾸벅 졸아요.",
+      "en": "A golden-tan Jeju dog with a subtly darker muzzle. Hondi carries a tangerine while being dragged and dozes off while sitting still.",
+      "ja": "口元が少し濃い黄褐色の済州犬。ドラッグ中はみかんをくわえて歩き、静止中は座ったまま居眠りします。",
+      "zh-CN": "一只嘴巴周围颜色略深的黄褐色济州犬。拖动时会叼着橘子行走，静止时会坐着打瞌睡。"
+    },
+    "project": "Omeong Gameong",
+    "official_openai_asset": false
+  },
+  "sprite": {
+    "file": "assets/hondi-spritesheet-v2.png",
+    "format": "PNG",
+    "sprite_version": 2,
+    "width": 1536,
+    "height": 2288,
+    "columns": 8,
+    "rows": 11,
+    "cell_width": 192,
+    "cell_height": 208,
+    "required_frames": 73,
+    "unused_transparent_cells": 15,
+    "sha256": "8b2de2ac6ef0e65a03557fb95b2c25ba4c2b8b04747e55f8827241367cf62ace"
+  },
+  "animation_rows": [
+    {"row": 0, "state": "idle", "frames": 6, "durations_ms": [280, 110, 110, 140, 140, 320]},
+    {"row": 1, "state": "running-right", "frames": 8, "durations_ms": [120, 120, 120, 120, 120, 120, 120, 220]},
+    {"row": 2, "state": "running-left", "frames": 8, "durations_ms": [120, 120, 120, 120, 120, 120, 120, 220]},
+    {"row": 3, "state": "waving", "frames": 4, "durations_ms": [140, 140, 140, 280]},
+    {"row": 4, "state": "jumping", "frames": 5, "durations_ms": [140, 140, 140, 140, 280]},
+    {"row": 5, "state": "failed", "frames": 8, "durations_ms": [140, 140, 140, 140, 140, 140, 140, 240]},
+    {"row": 6, "state": "waiting", "frames": 6, "durations_ms": [150, 150, 150, 150, 150, 260]},
+    {"row": 7, "state": "running", "frames": 6, "durations_ms": [120, 120, 120, 120, 120, 220]},
+    {"row": 8, "state": "review", "frames": 6, "durations_ms": [150, 150, 150, 150, 150, 280]},
+    {"row": 9, "state": "look-directions-a", "frames": 8, "degrees": [0, 22.5, 45, 67.5, 90, 112.5, 135, 157.5]},
+    {"row": 10, "state": "look-directions-b", "frames": 8, "degrees": [180, 202.5, 225, 247.5, 270, 292.5, 315, 337.5]}
+  ],
+  "validation": {
+    "structural_validation": "passed",
+    "pets_preflight": "passed",
+    "jump_lift_pixels": 34,
+    "landing_delta_pixels": 0,
+    "maximum_look_center_drift_pixels": 4.0,
+    "maximum_look_width_ratio": 1.1101694915254237
+  },
+  "license": "All Rights Reserved"
+}
